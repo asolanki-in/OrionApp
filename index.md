@@ -1,4 +1,4 @@
-[<img src="appicon.PNG" width="150" height="150">]
+<img src="appicon.PNG" width="150" height="150">
 
 ## About App
 
