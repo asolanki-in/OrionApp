@@ -10,7 +10,7 @@ Orion app is a reddit client for iOS providing you the fast and native interface
 * Simple Subreddit Search yet powerful
 * Custom Feeds or MultiReddit management
 
-<a href="https://itunes.apple.com/app/id979274575"><img src="assets/images/download-on-appstore.svg"></a>
+[<img src="download-on-appstore.svg">](https://itunes.apple.com/app/id1536533779)
 
 ### Jekyll Themes
 
