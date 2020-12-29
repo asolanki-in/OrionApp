@@ -1,8 +1,15 @@
 ## About App
 
-You can use the [editor on GitHub](https://github.com/asolanki-in/orionapp/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Orion app is a reddit client for iOS providing you the fast and native interface to browse rich experience of reddit. Orion app follows iOS sleek design so that you feel home while using app. Orion app for reddit comes with following feature set
+* Automatic Dark Mode
+* Safari View for reading news, articles with reader mode
+* Categorised News section provide you quick access to news
+* Picture in Picture Mode for videos
+* Unlock app with FaceID and TouchID
+* Multiple settings to adjust according to your needs
+* Simple Subreddit Search yet powerful
+* Custom Feeds or MultiReddit management
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
