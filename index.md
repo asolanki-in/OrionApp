@@ -10,30 +10,7 @@ Orion app is a reddit client for iOS providing you the fast and native interface
 * Simple Subreddit Search yet powerful
 * Custom Feeds or MultiReddit management
 
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<a href="https://itunes.apple.com/app/id979274575"><img src="assets/images/download-on-appstore.svg"></a>
 
 ### Jekyll Themes
 
