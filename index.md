@@ -13,5 +13,5 @@ Orion app is a reddit client for iOS providing you the fast and native interface
 * Custom Feeds or MultiReddit management
 
 [<img src="download-on-appstore.svg">](https://itunes.apple.com/app/id1536533779)
-
+[<a src=""policy.html>]
 ### [Orion App Reddit Community](https://www.reddit.com/r/OrionApp/)
